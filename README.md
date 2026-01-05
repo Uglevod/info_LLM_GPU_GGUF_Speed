@@ -1,5 +1,5 @@
 # info_LLM_GPU_GGUF_Speed
-Info about what LLM in what GPU how work with GPU model
+Info about what LLM in what GPU how good work with GGUF model
 
 Test promt:"write full rich fastapi todo app"
 ## 6XP104-100 8GB                                             
