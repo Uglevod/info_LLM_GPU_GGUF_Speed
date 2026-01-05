@@ -9,4 +9,4 @@ llama.cpp 22GB IQuest-Coder-V1-40B-Instruct.q4_k_m.gguf     - 7    t\s   Write m
 
 
 ## RTX3060 12GB
-LMStudio 9GB DeepCoder-14B-preview - 29 t\s 
+LMStudio 9GB DeepCoder-14B-preview-q5_0 - 29 t\s 
