@@ -9,7 +9,7 @@ Test promt:"write full rich fastapi todo app"
 | llama.cpp | qwen2.5-coder-32b-instruct             | 32    | q4_0      | 18GB | 10.2  | ****   |           | Write multiple files |                     |
 | llama.cpp | Qwen3-Coder-30B-A3B-Instruct-UD         | 30    | Q4_K_XL   | 17GB | 28.5  | ***    |           | Write single file |                     |
 | llama.cpp | gpt-oss-20b-MXFP4.gguf                 | 20    | Q4_K_XL   | 12B  | 32    | *****   |           | Multy + make dokerfile   |                     |
-| llama.cpp | DeepCoder-14B-preview                  | 14    | q5_0      | 9GB  | 17    | ***    |           |                    |                     |
+| llama.cpp | DeepCoder-14B-preview                  | 14    | q5_0      | 9GB  | 17    | ***    |     in this task -yes      |                    |                     |
 
 
 ## RTX3060 12GB
