@@ -14,6 +14,6 @@ Test promt:"write full rich fastapi todo app"
 
 ## RTX3060 12GB
 | Backend   | Model                 | SizeB | Quant | Size  |   t/s  | Rating | Reasoning | Comment               | CanOutOfBoxCodeRun |
-|-----------|-----------------------|-------|-------|-------|--------|--------|-----------|-----------------------|                    |
+|-----------|-----------------------|-------|-------|-------|--------|--------|-----------|-----------------------|--------------------|
 | LMStudio  | DeepCoder-14B-preview | 14    | q5_0  | 9GB   | 29     | *****  |  Yes      | add React Frontend !) |                    |
 
