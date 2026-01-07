@@ -9,7 +9,7 @@ Test promt:"write full rich fastapi todo app"
 | llama.cpp | qwen2.5-coder-32b-instruct | 18GB | q4_0 | 10.2  | **** |   | Write multiple files |                     |
 | llama.cpp | IQuest-Coder-V1-40B-Instruct | 22GB | q4_k_m | 7  | ***** |   | Write multiple files |                     |
 | llama.cpp | DeepCoder-14B-preview | 9GB | q5_0 | 17  | ***  |   |       |                     |
-
+| llama.cpp |  gpt-oss-20b-MXFP4.gguf  | 12B | Q4_K_XL | 32  | *****  |   |       |                     |
 
 
 ## RTX3060 12GB
